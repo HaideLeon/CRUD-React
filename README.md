@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 This email is for the login \
 Email: haideleon@gmail.com \
-Pass: haideleon1 \
+Pass: haideleon1 
 
 ### `npm start`
 
