@@ -1,0 +1,28 @@
+nav {
+    height: 10%;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-logo {
+    border-radius: 35px;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn-outline-danger {
+    margin-right: 20px;
+}
+
+.nav-item {
+    font-size: 18px  ;
+}
