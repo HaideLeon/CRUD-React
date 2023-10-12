@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-This email is for the login 
+This email is for the login \
 Email: haideleon@gmail.com
 Pass: haideleon1
 
